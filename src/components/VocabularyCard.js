@@ -18,6 +18,7 @@ const VocabularyCard = ({ word, onDelete }) => {
       <div className={`card ${isFlipped ? 'flipped' : ''}`} onClick={handleCardClick}>
         <div className="card-face card-front">
           <div className="english-word">{word.english}</div>
+          <div className="phonetic-pronunciation">{word.phonetic}</div>
         </div>
         <div className="card-face card-back">
           <div className="picture">{word.picture}</div>

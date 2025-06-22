@@ -104,9 +104,22 @@ body {
 }
 
 .english-word {
-  font-size: 2em;
+  font-size: 2.2em;
   font-weight: bold;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.phonetic-pronunciation {
+  font-size: 1.4em;
+  color: rgba(255,255,255,0.9);
+  background: rgba(255,255,255,0.2);
+  padding: 8px 16px;
+  border-radius: 15px;
+  direction: rtl;
+  font-family: 'Noto Sans Hebrew', 'David Libre', 'Frank Ruehl CLM', serif;
+  line-height: 1.6;
+  margin-bottom: 10px;
   text-align: center;
 }
 
