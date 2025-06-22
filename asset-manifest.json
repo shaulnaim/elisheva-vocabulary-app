@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/elisheva-vocabulary-app/static/css/main.6d9fbf83.css",
-    "main.js": "/elisheva-vocabulary-app/static/js/main.7705c3ed.js",
+    "main.js": "/elisheva-vocabulary-app/static/js/main.b1631682.js",
     "index.html": "/elisheva-vocabulary-app/index.html",
     "main.6d9fbf83.css.map": "/elisheva-vocabulary-app/static/css/main.6d9fbf83.css.map",
-    "main.7705c3ed.js.map": "/elisheva-vocabulary-app/static/js/main.7705c3ed.js.map"
+    "main.b1631682.js.map": "/elisheva-vocabulary-app/static/js/main.b1631682.js.map"
   },
   "entrypoints": [
     "static/css/main.6d9fbf83.css",
-    "static/js/main.7705c3ed.js"
+    "static/js/main.b1631682.js"
   ]
 }
