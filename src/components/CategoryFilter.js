@@ -11,6 +11,8 @@ const CategoryFilter = ({ currentCategory, onCategoryChange }) => {
     { id: 'emotions', label: 'רגשות' },
     { id: 'actions', label: 'פעולות' },
     { id: 'descriptive', label: 'תיאורים' },
+    { id: 'colors', label: 'צבעים' },
+    { id: 'food', label: 'אוכל' },
     { id: 'other', label: 'אחר' }
   ];
 

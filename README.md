@@ -3,7 +3,7 @@
 > **🎯 הכנה למבחן באנגלית של אלישבע חנה נעים**  
 > *Preparation for Elisheva Chana Naim's English Test*
 
-A React-based interactive flashcard application for learning Hebrew vocabulary with English translations. Designed specifically to help Elisheva prepare for her English test with 75 carefully curated vocabulary words.
+A React-based interactive flashcard application for learning Hebrew vocabulary with English translations. Designed specifically to help Elisheva prepare for her English test with 130 carefully curated vocabulary words.
 
 ## 🚀 Live Demo
 
@@ -21,17 +21,19 @@ A React-based interactive flashcard application for learning Hebrew vocabulary w
 
 ## 📚 Vocabulary Categories
 
-The app includes 75 words across 9 categories:
+The app includes 130 words across 11 categories:
 
-- 🫀 **Body Parts** (חלקי גוף) - leg, arm, knee, shoulder, toes
+- 🫀 **Body Parts** (חלקי גוף) - head, eye, nose, mouth, hand, leg, arm
 - 🏥 **Health** (בריאות) - doctor, medicine, healthy, sick, glasses
-- 👨‍👩‍👧‍👦 **Family** (משפחה) - aunt, cousin, grandfather, parents
-- 🏠 **House** (בית) - roof, wall, floor, gate
-- 🏫 **School** (בית ספר) - classroom, student, test, homework, grade
-- 😊 **Emotions** (רגשות) - love, sad, proud, angry, scared
-- 🏃 **Actions** (פעולות) - walk, read, think, make, clean
-- 📝 **Descriptive** (תיאורים) - poor, expensive, delicious, best
-- 🔤 **Other** (אחר) - help, word, together, forever
+- 👨‍👩‍👧‍👦 **Family** (משפחה) - mother, father, sister, brother, grandmother, aunt
+- 🏠 **House** (בית) - kitchen, bedroom, bathroom, window, door, table, chair
+- 🏫 **School** (בית ספר) - teacher, student, book, pencil, paper, learn, write
+- 😊 **Emotions** (רגשות) - happy, sad, angry, excited, tired, confused
+- 🏃 **Actions** (פעולות) - walk, read, think, make, clean, understand, speak
+- 🎨 **Colors** (צבעים) - red, blue, green, yellow, white, black, orange, purple
+- 🍎 **Food** (אוכל) - apple, bread, water, milk, egg, fish, meat, cheese
+- 📝 **Descriptive** (תיאורים) - poor, expensive, delicious, best, alone
+- 🔤 **Other** (אחר) - help, word, together, today, tomorrow, yesterday
 
 ## 🛠️ Technology Stack
 

@@ -5,6 +5,16 @@ export const vocabularyData = [
   { english: "arm", phonetic: "ארם", hebrew: "זְרוֹעַ", picture: "💪", category: "body" },
   { english: "shoulder", phonetic: "שולדר", hebrew: "כָּתֵף", picture: "🤷", category: "body" },
   { english: "toes", phonetic: " טוז", hebrew: "אֶצְבְּעוֹת רַגְלַיִם", picture: "🦶", category: "body" },
+  { english: "head", phonetic: "הד", hebrew: "רֹאשׁ", picture: "🗣️", category: "body" },
+  { english: "eye", phonetic: "איי", hebrew: "עַיִן", picture: "👁️", category: "body" },
+  { english: "nose", phonetic: "נוז", hebrew: "אַף", picture: "👃", category: "body" },
+  { english: "mouth", phonetic: "מאות", hebrew: "פֶּה", picture: "👄", category: "body" },
+  { english: "ear", phonetic: "איר", hebrew: "אֹזֶן", picture: "👂", category: "body" },
+  { english: "hand", phonetic: "הנד", hebrew: "יָד", picture: "✋", category: "body" },
+  { english: "finger", phonetic: "פינגר", hebrew: "אֶצְבַּע", picture: "👆", category: "body" },
+  { english: "foot", phonetic: "פוט", hebrew: "רֶגֶל", picture: "🦶", category: "body" },
+  { english: "back", phonetic: "בק", hebrew: "גַּב", picture: "🧍", category: "body" },
+  { english: "stomach", phonetic: "סטמק", hebrew: "בֶּטֶן", picture: "🫃", category: "body" },
   
   // Senses & Health
   { english: "hear", phonetic: "היר", hebrew: "לִשְׁמֹעַ", picture: "👂", category: "health" },
@@ -23,12 +33,27 @@ export const vocabularyData = [
   { english: "cousin", phonetic: "בֶּן דּוֹד", hebrew: "בֶּן דּוֹד/בַּת דּוֹדָה", picture: "👦", category: "family" },
   { english: "grandfather", phonetic: "סָבָּא", hebrew: "סָבָּא", picture: "👴", category: "family" },
   { english: "parents", phonetic: "הוֹרִים", hebrew: "הוֹרִים", picture: "👨‍👩", category: "family" },
+  { english: "mother", phonetic: "מאדר", hebrew: "אִמָּא", picture: "👩", category: "family" },
+  { english: "father", phonetic: "פאדר", hebrew: "אַבָּא", picture: "👨", category: "family" },
+  { english: "sister", phonetic: "סיסטר", hebrew: "אָחוֹת", picture: "👧", category: "family" },
+  { english: "brother", phonetic: "ברדר", hebrew: "אָח", picture: "👦", category: "family" },
+  { english: "grandmother", phonetic: "גרנדמאדר", hebrew: "סָבְתָּא", picture: "👵", category: "family" },
+  { english: "uncle", phonetic: "אנקל", hebrew: "דּוֹד", picture: "👨", category: "family" },
+  { english: "baby", phonetic: "בייבי", hebrew: "תִּינוֹק", picture: "👶", category: "family" },
   
   // House & Building
   { english: "roof", phonetic: "גַּג", hebrew: "גַּג", picture: "🏠", category: "house" },
   { english: "wall", phonetic: "קִיר", hebrew: "קִיר", picture: "🧱", category: "house" },
   { english: "floor", phonetic: "רִצְפָּה", hebrew: "רִצְפָּה", picture: "🟫", category: "house" },
   { english: "gate", phonetic: "שַׁעַר", hebrew: "שַׁעַר", picture: "🚪", category: "house" },
+  { english: "kitchen", phonetic: "קיצ'ן", hebrew: "מִטְבָּח", picture: "🍳", category: "house" },
+  { english: "bedroom", phonetic: "בדרום", hebrew: "חֶדֶר שֵׁינָה", picture: "🛏️", category: "house" },
+  { english: "bathroom", phonetic: "באתרום", hebrew: "חֶדֶר אַמְבַּטְיָה", picture: "🚿", category: "house" },
+  { english: "window", phonetic: "ווינדו", hebrew: "חַלּוֹן", picture: "🪟", category: "house" },
+  { english: "door", phonetic: "דור", hebrew: "דֶּלֶת", picture: "🚪", category: "house" },
+  { english: "table", phonetic: "טייבל", hebrew: "שֻׁלְחָן", picture: "🪑", category: "house" },
+  { english: "chair", phonetic: "צ'ר", hebrew: "כִּסֵּא", picture: "🪑", category: "house" },
+  { english: "bed", phonetic: "בד", hebrew: "מִטָּה", picture: "🛏️", category: "house" },
   
   // School
   { english: "classroom", phonetic: "כִּתָּה", hebrew: "כִּתָּה", picture: "🏫", category: "school" },
@@ -41,6 +66,12 @@ export const vocabularyData = [
   { english: "speak", phonetic: "לְדַבֵּר", hebrew: "לְדַבֵּר", picture: "💬", category: "school" },
   { english: "think", phonetic: "לַחְשֹׁב", hebrew: "לַחְשֹׁב", picture: "🤔", category: "school" },
   { english: "class", phonetic: "שִׁעוּר", hebrew: "שִׁעוּר", picture: "🎓", category: "school" },
+  { english: "teacher", phonetic: "טיצ'ר", hebrew: "מוֹרֶה/מוֹרָה", picture: "👩‍🏫", category: "school" },
+  { english: "book", phonetic: "בוק", hebrew: "סֵפֶר", picture: "📚", category: "school" },
+  { english: "pencil", phonetic: "פנסיל", hebrew: "עִפָּרוֹן", picture: "✏️", category: "school" },
+  { english: "paper", phonetic: "פייפר", hebrew: "נְיָר", picture: "📄", category: "school" },
+  { english: "learn", phonetic: "לרן", hebrew: "לִלְמֹד", picture: "🎓", category: "school" },
+  { english: "write", phonetic: "רייט", hebrew: "לִכְתֹּב", picture: "✍️", category: "school" },
   
   // Emotions
   { english: "love", phonetic: "אַהֲבָה", hebrew: "אַהֲבָה", picture: "❤️", category: "emotions" },
@@ -50,6 +81,10 @@ export const vocabularyData = [
   { english: "scared", phonetic: "מְפַחֵד", hebrew: "מְפַחֵד", picture: "😨", category: "emotions" },
   { english: "surprised", phonetic: "מֻפְתָּע", hebrew: "מֻפְתָּע", picture: "😮", category: "emotions" },
   { english: "worried", phonetic: "מֻדְאָג", hebrew: "מֻדְאָג", picture: "😟", category: "emotions" },
+  { english: "happy", phonetic: "הפי", hebrew: "שָׂמֵחַ", picture: "😊", category: "emotions" },
+  { english: "excited", phonetic: "אקסייטד", hebrew: "נִרְגָּשׁ", picture: "🤩", category: "emotions" },
+  { english: "tired", phonetic: "טייארד", hebrew: "עָיֵף", picture: "😴", category: "emotions" },
+  { english: "confused", phonetic: "קונפיוזד", hebrew: "מְבֻלְבָּל", picture: "😵", category: "emotions" },
   
   // Actions & Verbs
   { english: "talk", phonetic: "לְדַבֵּר", hebrew: "לְדַבֵּר", picture: "💬", category: "actions" },
@@ -82,6 +117,26 @@ export const vocabularyData = [
   { english: "other", phonetic: "אַחֵר", hebrew: "אַחֵר", picture: "➡️", category: "descriptive" },
   { english: "alone", phonetic: "לְבַד", hebrew: "לְבַד", picture: "👤", category: "descriptive" },
   
+  // Colors
+  { english: "red", phonetic: "רד", hebrew: "אָדֹם", picture: "🔴", category: "colors" },
+  { english: "blue", phonetic: "בלו", hebrew: "כָּחֹל", picture: "🔵", category: "colors" },
+  { english: "green", phonetic: "גרין", hebrew: "יָרֹק", picture: "🟢", category: "colors" },
+  { english: "yellow", phonetic: "ילו", hebrew: "צָהֹב", picture: "🟡", category: "colors" },
+  { english: "white", phonetic: "וויט", hebrew: "לָבָן", picture: "⚪", category: "colors" },
+  { english: "black", phonetic: "בלק", hebrew: "שָׁחֹר", picture: "⚫", category: "colors" },
+  { english: "orange", phonetic: "אורנג'", hebrew: "כָּתֹם", picture: "🟠", category: "colors" },
+  { english: "purple", phonetic: "פרפל", hebrew: "סָגֹל", picture: "🟣", category: "colors" },
+
+  // Food
+  { english: "apple", phonetic: "אפל", hebrew: "תַּפּוּחַ", picture: "🍎", category: "food" },
+  { english: "bread", phonetic: "ברד", hebrew: "לֶחֶם", picture: "🍞", category: "food" },
+  { english: "water", phonetic: "ווטר", hebrew: "מַיִם", picture: "💧", category: "food" },
+  { english: "milk", phonetic: "מילק", hebrew: "חָלָב", picture: "🥛", category: "food" },
+  { english: "egg", phonetic: "אג", hebrew: "בֵּיצָה", picture: "🥚", category: "food" },
+  { english: "fish", phonetic: "פיש", hebrew: "דָּג", picture: "🐟", category: "food" },
+  { english: "meat", phonetic: "מיט", hebrew: "בָּשָׂר", picture: "🥩", category: "food" },
+  { english: "cheese", phonetic: "צ'יז", hebrew: "גְּבִינָה", picture: "🧀", category: "food" },
+
   // Time & Other
   { english: "once", phonetic: "פַּעַם אַחַת", hebrew: "פַּעַם אַחַת", picture: "1️⃣", category: "other" },
   { english: "forever", phonetic: "לְעוֹלָם", hebrew: "לְעוֹלָם", picture: "♾️", category: "other" },
@@ -91,5 +146,8 @@ export const vocabularyData = [
   { english: "newspaper", phonetic: "עִתּוֹן", hebrew: "עִתּוֹן", picture: "📰", category: "other" },
   { english: "together", phonetic: "יַחַד", hebrew: "יַחַד", picture: "👫", category: "other" },
   { english: "goodbye", phonetic: "לְהִתְרָאוֹת", hebrew: "לְהִתְרָאוֹת", picture: "👋", category: "other" },
-  { english: "most", phonetic: "רֹב", hebrew: "רֹב", picture: "🔝", category: "other" }
+  { english: "most", phonetic: "רֹב", hebrew: "רֹב", picture: "🔝", category: "other" },
+  { english: "today", phonetic: "טודיי", hebrew: "הַיּוֹם", picture: "📅", category: "other" },
+  { english: "tomorrow", phonetic: "טומורו", hebrew: "מָחָר", picture: "🌅", category: "other" },
+  { english: "yesterday", phonetic: "יסטרדיי", hebrew: "אֶתְמוֹל", picture: "📊", category: "other" }
 ];
